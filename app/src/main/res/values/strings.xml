@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RMxChange</string>
+    <string name="topTxt">Today\'s exchange rate is:</string>
+    <color name="selected">#824986</color>
+    <color name="unselected">#FFFFFF</color>
+</resources>
